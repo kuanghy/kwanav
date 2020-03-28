@@ -95,15 +95,15 @@ $(function() {
       box_shadow: '#37bf4c',
       icon: 'img/douban.png',
     }, {
+      name: '古诗文网',
+      link: 'http://www.gushiwen.org',
+      box_shadow: '#3279ea',
+      icon: 'img/shi.png',
+    }, {
       name: '少数派',
       link: 'https://sspai.com/',
       box_shadow: '#D7191A',
       icon: 'img/sspai.png',
-    }, {
-      name: '小众软件',
-      link: 'https://www.appinn.com/',
-      box_shadow: '#3279ea',
-      icon: 'img/xiaozhong.png',
     }, {
       name: '淘宝',
       link: 'https://www.taobao.com',
