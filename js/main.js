@@ -75,11 +75,6 @@ function rgb2hex(rgb) {
 $(function() {
   var bookmark = {
     data: [{
-      name: 'Via插件',
-      link: 'http://via-app.cn',
-      box_shadow: '#FA7199',
-      icon: 'img/via.png',
-    }, {
       name: '今日热榜',
       link: 'https://tophub.today/',
       box_shadow: '#F2584A',
