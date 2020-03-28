@@ -100,11 +100,6 @@ $(function() {
       box_shadow: '#3279ea',
       icon: 'img/shi.png',
     }, {
-      name: '少数派',
-      link: 'https://sspai.com/',
-      box_shadow: '#D7191A',
-      icon: 'img/sspai.png',
-    }, {
       name: '淘宝',
       link: 'https://www.taobao.com',
       box_shadow: '#0078D8',
@@ -134,6 +129,11 @@ $(function() {
       link: 'https://github.com',
       box_shadow: '#00A0E9',
       icon: 'img/github-xs.png',
+    }, {
+      name: '网址收藏',
+      link: 'https://blog.konghy.cn/urlbook/',
+      box_shadow: '#D7191A',
+      icon: 'img/favorite.png',
     }, {
       name: '我的博客',
       link: 'https://blog.konghy.cn',
